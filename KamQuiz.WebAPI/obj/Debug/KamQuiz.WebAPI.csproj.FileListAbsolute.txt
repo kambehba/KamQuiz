@@ -1,0 +1,327 @@
+J:\Kam\Projects\KamQuiz\KamQuiz.WebAPI\bin\KamQuiz.WebAPI.dll.config
+J:\Kam\Projects\KamQuiz\KamQuiz.WebAPI\bin\KamQuiz.WebAPI.dll
+J:\Kam\Projects\KamQuiz\KamQuiz.WebAPI\bin\KamQuiz.WebAPI.pdb
+J:\Kam\Projects\KamQuiz\KamQuiz.WebAPI\bin\Antlr3.Runtime.dll
+J:\Kam\Projects\KamQuiz\KamQuiz.WebAPI\bin\EntityFramework.dll
+J:\Kam\Projects\KamQuiz\KamQuiz.WebAPI\bin\EntityFramework.SqlServer.dll
+J:\Kam\Projects\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.AspNet.Identity.Core.dll
+J:\Kam\Projects\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+J:\Kam\Projects\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+J:\Kam\Projects\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.dll
+J:\Kam\Projects\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+J:\Kam\Projects\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Security.Cookies.dll
+J:\Kam\Projects\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Security.dll
+J:\Kam\Projects\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Security.Facebook.dll
+J:\Kam\Projects\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Security.Google.dll
+J:\Kam\Projects\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+J:\Kam\Projects\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Security.OAuth.dll
+J:\Kam\Projects\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Security.Twitter.dll
+J:\Kam\Projects\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+J:\Kam\Projects\KamQuiz\KamQuiz.WebAPI\bin\Newtonsoft.Json.dll
+J:\Kam\Projects\KamQuiz\KamQuiz.WebAPI\bin\Owin.dll
+J:\Kam\Projects\KamQuiz\KamQuiz.WebAPI\bin\System.Net.Http.Formatting.dll
+J:\Kam\Projects\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Cors.dll
+J:\Kam\Projects\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Helpers.dll
+J:\Kam\Projects\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Http.Cors.dll
+J:\Kam\Projects\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Http.dll
+J:\Kam\Projects\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Http.Owin.dll
+J:\Kam\Projects\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Http.WebHost.dll
+J:\Kam\Projects\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Mvc.dll
+J:\Kam\Projects\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Optimization.dll
+J:\Kam\Projects\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Razor.dll
+J:\Kam\Projects\KamQuiz\KamQuiz.WebAPI\bin\System.Web.WebPages.Deployment.dll
+J:\Kam\Projects\KamQuiz\KamQuiz.WebAPI\bin\System.Web.WebPages.dll
+J:\Kam\Projects\KamQuiz\KamQuiz.WebAPI\bin\System.Web.WebPages.Razor.dll
+J:\Kam\Projects\KamQuiz\KamQuiz.WebAPI\bin\WebGrease.dll
+J:\Kam\Projects\KamQuiz\KamQuiz.WebAPI\bin\System.Net.Http.Formatting.xml
+J:\Kam\Projects\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Http.xml
+J:\Kam\Projects\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Http.Cors.xml
+J:\Kam\Projects\KamQuiz\KamQuiz.WebAPI\bin\Newtonsoft.Json.xml
+J:\Kam\Projects\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Helpers.xml
+J:\Kam\Projects\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Http.WebHost.xml
+J:\Kam\Projects\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Mvc.xml
+J:\Kam\Projects\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Optimization.xml
+J:\Kam\Projects\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Razor.xml
+J:\Kam\Projects\KamQuiz\KamQuiz.WebAPI\bin\System.Web.WebPages.xml
+J:\Kam\Projects\KamQuiz\KamQuiz.WebAPI\bin\System.Web.WebPages.Deployment.xml
+J:\Kam\Projects\KamQuiz\KamQuiz.WebAPI\bin\System.Web.WebPages.Razor.xml
+J:\Kam\Projects\KamQuiz\KamQuiz.WebAPI\bin\Antlr3.Runtime.pdb
+J:\Kam\Projects\KamQuiz\KamQuiz.WebAPI\bin\EntityFramework.xml
+J:\Kam\Projects\KamQuiz\KamQuiz.WebAPI\bin\EntityFramework.SqlServer.xml
+J:\Kam\Projects\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.AspNet.Identity.Core.xml
+J:\Kam\Projects\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+J:\Kam\Projects\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+J:\Kam\Projects\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.xml
+J:\Kam\Projects\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+J:\Kam\Projects\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Security.xml
+J:\Kam\Projects\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Security.Facebook.xml
+J:\Kam\Projects\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Security.Cookies.xml
+J:\Kam\Projects\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Security.OAuth.xml
+J:\Kam\Projects\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Security.Google.xml
+J:\Kam\Projects\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Security.Twitter.xml
+J:\Kam\Projects\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+J:\Kam\Projects\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Http.Owin.xml
+J:\Kam\Projects\KamQuiz\KamQuiz.WebAPI\obj\Debug\KamQuiz.WebAPI.dll
+J:\Kam\Projects\KamQuiz\KamQuiz.WebAPI\obj\Debug\KamQuiz.WebAPI.pdb
+C:\Users\KamParsens\Documents\Visual Studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\KamQuiz.WebAPI.dll.config
+C:\Users\KamParsens\Documents\Visual Studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\KamQuiz.WebAPI.dll
+C:\Users\KamParsens\Documents\Visual Studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\KamQuiz.WebAPI.pdb
+C:\Users\KamParsens\Documents\Visual Studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\Antlr3.Runtime.dll
+C:\Users\KamParsens\Documents\Visual Studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\EntityFramework.dll
+C:\Users\KamParsens\Documents\Visual Studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\KamParsens\Documents\Visual Studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\KamParsens\Documents\Visual Studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\KamParsens\Documents\Visual Studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\KamParsens\Documents\Visual Studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.dll
+C:\Users\KamParsens\Documents\Visual Studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\KamParsens\Documents\Visual Studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\KamParsens\Documents\Visual Studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Security.dll
+C:\Users\KamParsens\Documents\Visual Studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\KamParsens\Documents\Visual Studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\KamParsens\Documents\Visual Studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\KamParsens\Documents\Visual Studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\KamParsens\Documents\Visual Studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\KamParsens\Documents\Visual Studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\KamParsens\Documents\Visual Studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\KamParsens\Documents\Visual Studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\Owin.dll
+C:\Users\KamParsens\Documents\Visual Studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\KamParsens\Documents\Visual Studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Cors.dll
+C:\Users\KamParsens\Documents\Visual Studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Helpers.dll
+C:\Users\KamParsens\Documents\Visual Studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Http.Cors.dll
+C:\Users\KamParsens\Documents\Visual Studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Http.dll
+C:\Users\KamParsens\Documents\Visual Studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Http.Owin.dll
+C:\Users\KamParsens\Documents\Visual Studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\KamParsens\Documents\Visual Studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Mvc.dll
+C:\Users\KamParsens\Documents\Visual Studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Optimization.dll
+C:\Users\KamParsens\Documents\Visual Studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Razor.dll
+C:\Users\KamParsens\Documents\Visual Studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\KamParsens\Documents\Visual Studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\System.Web.WebPages.dll
+C:\Users\KamParsens\Documents\Visual Studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\KamParsens\Documents\Visual Studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\WebGrease.dll
+C:\Users\KamParsens\Documents\Visual Studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\KamParsens\Documents\Visual Studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Http.xml
+C:\Users\KamParsens\Documents\Visual Studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Http.Cors.xml
+C:\Users\KamParsens\Documents\Visual Studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\KamParsens\Documents\Visual Studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Helpers.xml
+C:\Users\KamParsens\Documents\Visual Studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\KamParsens\Documents\Visual Studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Mvc.xml
+C:\Users\KamParsens\Documents\Visual Studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Optimization.xml
+C:\Users\KamParsens\Documents\Visual Studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Razor.xml
+C:\Users\KamParsens\Documents\Visual Studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\System.Web.WebPages.xml
+C:\Users\KamParsens\Documents\Visual Studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\KamParsens\Documents\Visual Studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\KamParsens\Documents\Visual Studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\Antlr3.Runtime.pdb
+C:\Users\KamParsens\Documents\Visual Studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\EntityFramework.xml
+C:\Users\KamParsens\Documents\Visual Studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\KamParsens\Documents\Visual Studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\KamParsens\Documents\Visual Studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\KamParsens\Documents\Visual Studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\KamParsens\Documents\Visual Studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.xml
+C:\Users\KamParsens\Documents\Visual Studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\KamParsens\Documents\Visual Studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Security.xml
+C:\Users\KamParsens\Documents\Visual Studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\KamParsens\Documents\Visual Studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\KamParsens\Documents\Visual Studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\KamParsens\Documents\Visual Studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\KamParsens\Documents\Visual Studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\KamParsens\Documents\Visual Studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\KamParsens\Documents\Visual Studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Http.Owin.xml
+C:\Users\KamParsens\Documents\Visual Studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\obj\Debug\KamQuiz.WebAPI.dll
+C:\Users\KamParsens\Documents\Visual Studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\obj\Debug\KamQuiz.WebAPI.pdb
+C:\Users\KamParsens\documents\visual studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\obj\Debug\KamQuiz.WebAPI.csprojResolveAssemblyReference.cache
+C:\Users\Kam\documents\visual studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\KamQuiz.WebAPI.dll.config
+C:\Users\Kam\documents\visual studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\KamQuiz.WebAPI.dll
+C:\Users\Kam\documents\visual studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\KamQuiz.WebAPI.pdb
+C:\Users\Kam\documents\visual studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\Antlr3.Runtime.dll
+C:\Users\Kam\documents\visual studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\EntityFramework.dll
+C:\Users\Kam\documents\visual studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\Kam\documents\visual studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Kam\documents\visual studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Kam\documents\visual studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Kam\documents\visual studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.dll
+C:\Users\Kam\documents\visual studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Kam\documents\visual studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Kam\documents\visual studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Security.dll
+C:\Users\Kam\documents\visual studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Kam\documents\visual studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Kam\documents\visual studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Kam\documents\visual studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Kam\documents\visual studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Kam\documents\visual studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Kam\documents\visual studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\Kam\documents\visual studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\Owin.dll
+C:\Users\Kam\documents\visual studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Kam\documents\visual studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Cors.dll
+C:\Users\Kam\documents\visual studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Helpers.dll
+C:\Users\Kam\documents\visual studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Http.Cors.dll
+C:\Users\Kam\documents\visual studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Http.dll
+C:\Users\Kam\documents\visual studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Http.Owin.dll
+C:\Users\Kam\documents\visual studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Kam\documents\visual studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Mvc.dll
+C:\Users\Kam\documents\visual studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Optimization.dll
+C:\Users\Kam\documents\visual studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Razor.dll
+C:\Users\Kam\documents\visual studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Kam\documents\visual studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\System.Web.WebPages.dll
+C:\Users\Kam\documents\visual studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Kam\documents\visual studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\WebGrease.dll
+C:\Users\Kam\documents\visual studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Kam\documents\visual studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Http.xml
+C:\Users\Kam\documents\visual studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Http.Cors.xml
+C:\Users\Kam\documents\visual studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\Kam\documents\visual studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Helpers.xml
+C:\Users\Kam\documents\visual studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Kam\documents\visual studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Mvc.xml
+C:\Users\Kam\documents\visual studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Optimization.xml
+C:\Users\Kam\documents\visual studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Razor.xml
+C:\Users\Kam\documents\visual studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\System.Web.WebPages.xml
+C:\Users\Kam\documents\visual studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Kam\documents\visual studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Kam\documents\visual studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\Antlr3.Runtime.pdb
+C:\Users\Kam\documents\visual studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\EntityFramework.xml
+C:\Users\Kam\documents\visual studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\Kam\documents\visual studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Kam\documents\visual studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Kam\documents\visual studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Kam\documents\visual studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.xml
+C:\Users\Kam\documents\visual studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Kam\documents\visual studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Security.xml
+C:\Users\Kam\documents\visual studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Kam\documents\visual studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Kam\documents\visual studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Kam\documents\visual studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Kam\documents\visual studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Kam\documents\visual studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Kam\documents\visual studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Http.Owin.xml
+C:\Users\Kam\documents\visual studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\obj\Debug\KamQuiz.WebAPI.dll
+C:\Users\Kam\documents\visual studio 2013\Projects\KamQuiz\KamQuiz.WebAPI\obj\Debug\KamQuiz.WebAPI.pdb
+C:\KamDev\KamQuiz\KamQuiz.WebAPI\bin\KamQuiz.WebAPI.dll.config
+C:\KamDev\KamQuiz\KamQuiz.WebAPI\bin\KamQuiz.WebAPI.dll
+C:\KamDev\KamQuiz\KamQuiz.WebAPI\bin\KamQuiz.WebAPI.pdb
+C:\KamDev\KamQuiz\KamQuiz.WebAPI\bin\Antlr3.Runtime.dll
+C:\KamDev\KamQuiz\KamQuiz.WebAPI\bin\EntityFramework.dll
+C:\KamDev\KamQuiz\KamQuiz.WebAPI\bin\EntityFramework.SqlServer.dll
+C:\KamDev\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\KamDev\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\KamDev\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\KamDev\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.dll
+C:\KamDev\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\KamDev\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\KamDev\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Security.dll
+C:\KamDev\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\KamDev\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Security.Google.dll
+C:\KamDev\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\KamDev\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\KamDev\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\KamDev\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\KamDev\KamQuiz\KamQuiz.WebAPI\bin\Newtonsoft.Json.dll
+C:\KamDev\KamQuiz\KamQuiz.WebAPI\bin\Owin.dll
+C:\KamDev\KamQuiz\KamQuiz.WebAPI\bin\System.Net.Http.Formatting.dll
+C:\KamDev\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Cors.dll
+C:\KamDev\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Helpers.dll
+C:\KamDev\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Http.Cors.dll
+C:\KamDev\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Http.dll
+C:\KamDev\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Http.Owin.dll
+C:\KamDev\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Http.WebHost.dll
+C:\KamDev\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Mvc.dll
+C:\KamDev\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Optimization.dll
+C:\KamDev\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Razor.dll
+C:\KamDev\KamQuiz\KamQuiz.WebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\KamDev\KamQuiz\KamQuiz.WebAPI\bin\System.Web.WebPages.dll
+C:\KamDev\KamQuiz\KamQuiz.WebAPI\bin\System.Web.WebPages.Razor.dll
+C:\KamDev\KamQuiz\KamQuiz.WebAPI\bin\WebGrease.dll
+C:\KamDev\KamQuiz\KamQuiz.WebAPI\bin\System.Net.Http.Formatting.xml
+C:\KamDev\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Http.xml
+C:\KamDev\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Http.Cors.xml
+C:\KamDev\KamQuiz\KamQuiz.WebAPI\bin\Newtonsoft.Json.xml
+C:\KamDev\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Helpers.xml
+C:\KamDev\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Http.WebHost.xml
+C:\KamDev\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Mvc.xml
+C:\KamDev\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Optimization.xml
+C:\KamDev\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Razor.xml
+C:\KamDev\KamQuiz\KamQuiz.WebAPI\bin\System.Web.WebPages.xml
+C:\KamDev\KamQuiz\KamQuiz.WebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\KamDev\KamQuiz\KamQuiz.WebAPI\bin\System.Web.WebPages.Razor.xml
+C:\KamDev\KamQuiz\KamQuiz.WebAPI\bin\Antlr3.Runtime.pdb
+C:\KamDev\KamQuiz\KamQuiz.WebAPI\bin\EntityFramework.xml
+C:\KamDev\KamQuiz\KamQuiz.WebAPI\bin\EntityFramework.SqlServer.xml
+C:\KamDev\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\KamDev\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\KamDev\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\KamDev\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.xml
+C:\KamDev\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\KamDev\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Security.xml
+C:\KamDev\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\KamDev\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\KamDev\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\KamDev\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Security.Google.xml
+C:\KamDev\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\KamDev\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\KamDev\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Http.Owin.xml
+C:\KamDev\KamQuiz\KamQuiz.WebAPI\obj\Debug\KamQuiz.WebAPI.dll
+C:\KamDev\KamQuiz\KamQuiz.WebAPI\obj\Debug\KamQuiz.WebAPI.pdb
+C:\Users\KamParsens\Documents\GitHub\KamQuiz\KamQuiz.WebAPI\bin\KamQuiz.WebAPI.dll.config
+C:\Users\KamParsens\Documents\GitHub\KamQuiz\KamQuiz.WebAPI\bin\KamQuiz.WebAPI.dll
+C:\Users\KamParsens\Documents\GitHub\KamQuiz\KamQuiz.WebAPI\bin\KamQuiz.WebAPI.pdb
+C:\Users\KamParsens\Documents\GitHub\KamQuiz\KamQuiz.WebAPI\bin\Antlr3.Runtime.dll
+C:\Users\KamParsens\Documents\GitHub\KamQuiz\KamQuiz.WebAPI\bin\EntityFramework.dll
+C:\Users\KamParsens\Documents\GitHub\KamQuiz\KamQuiz.WebAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\KamParsens\Documents\GitHub\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\KamParsens\Documents\GitHub\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\KamParsens\Documents\GitHub\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\KamParsens\Documents\GitHub\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.dll
+C:\Users\KamParsens\Documents\GitHub\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\KamParsens\Documents\GitHub\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\KamParsens\Documents\GitHub\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Security.dll
+C:\Users\KamParsens\Documents\GitHub\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\KamParsens\Documents\GitHub\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\KamParsens\Documents\GitHub\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\KamParsens\Documents\GitHub\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\KamParsens\Documents\GitHub\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\KamParsens\Documents\GitHub\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\KamParsens\Documents\GitHub\KamQuiz\KamQuiz.WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\KamParsens\Documents\GitHub\KamQuiz\KamQuiz.WebAPI\bin\Owin.dll
+C:\Users\KamParsens\Documents\GitHub\KamQuiz\KamQuiz.WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\KamParsens\Documents\GitHub\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Cors.dll
+C:\Users\KamParsens\Documents\GitHub\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Helpers.dll
+C:\Users\KamParsens\Documents\GitHub\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Http.Cors.dll
+C:\Users\KamParsens\Documents\GitHub\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Http.dll
+C:\Users\KamParsens\Documents\GitHub\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Http.Owin.dll
+C:\Users\KamParsens\Documents\GitHub\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\KamParsens\Documents\GitHub\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Mvc.dll
+C:\Users\KamParsens\Documents\GitHub\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Optimization.dll
+C:\Users\KamParsens\Documents\GitHub\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Razor.dll
+C:\Users\KamParsens\Documents\GitHub\KamQuiz\KamQuiz.WebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\KamParsens\Documents\GitHub\KamQuiz\KamQuiz.WebAPI\bin\System.Web.WebPages.dll
+C:\Users\KamParsens\Documents\GitHub\KamQuiz\KamQuiz.WebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\KamParsens\Documents\GitHub\KamQuiz\KamQuiz.WebAPI\bin\WebGrease.dll
+C:\Users\KamParsens\Documents\GitHub\KamQuiz\KamQuiz.WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\KamParsens\Documents\GitHub\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Http.xml
+C:\Users\KamParsens\Documents\GitHub\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Http.Cors.xml
+C:\Users\KamParsens\Documents\GitHub\KamQuiz\KamQuiz.WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\KamParsens\Documents\GitHub\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Helpers.xml
+C:\Users\KamParsens\Documents\GitHub\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\KamParsens\Documents\GitHub\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Mvc.xml
+C:\Users\KamParsens\Documents\GitHub\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Optimization.xml
+C:\Users\KamParsens\Documents\GitHub\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Razor.xml
+C:\Users\KamParsens\Documents\GitHub\KamQuiz\KamQuiz.WebAPI\bin\System.Web.WebPages.xml
+C:\Users\KamParsens\Documents\GitHub\KamQuiz\KamQuiz.WebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\KamParsens\Documents\GitHub\KamQuiz\KamQuiz.WebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\KamParsens\Documents\GitHub\KamQuiz\KamQuiz.WebAPI\bin\Antlr3.Runtime.pdb
+C:\Users\KamParsens\Documents\GitHub\KamQuiz\KamQuiz.WebAPI\bin\EntityFramework.xml
+C:\Users\KamParsens\Documents\GitHub\KamQuiz\KamQuiz.WebAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\KamParsens\Documents\GitHub\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\KamParsens\Documents\GitHub\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\KamParsens\Documents\GitHub\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\KamParsens\Documents\GitHub\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.xml
+C:\Users\KamParsens\Documents\GitHub\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\KamParsens\Documents\GitHub\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Security.xml
+C:\Users\KamParsens\Documents\GitHub\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\KamParsens\Documents\GitHub\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\KamParsens\Documents\GitHub\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\KamParsens\Documents\GitHub\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\KamParsens\Documents\GitHub\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\KamParsens\Documents\GitHub\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\KamParsens\Documents\GitHub\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Http.Owin.xml
+C:\Users\KamParsens\Documents\GitHub\KamQuiz\KamQuiz.WebAPI\obj\Debug\KamQuiz.WebAPI.csprojResolveAssemblyReference.cache
+C:\Users\KamParsens\Documents\GitHub\KamQuiz\KamQuiz.WebAPI\obj\Debug\KamQuiz.WebAPI.dll
+C:\Users\KamParsens\Documents\GitHub\KamQuiz\KamQuiz.WebAPI\obj\Debug\KamQuiz.WebAPI.pdb

@@ -1,0 +1,55 @@
+Kam Software Inc.
+
+
+Kam QUiZ Version 1.3.0 
+
+5/26/2015  15:06
+
+/////////////
+
+Kam Quiz Version 1.4.0
+
+-added quiz maker project and implemented web api , user interface for it
+
+-added functionality to add quiz name
+
+-added functionality add questions and answers to the quiz
+
+7/17/2015 14:00
+
+//////////// 
+
+Kam Quiz Version 1.4.1
+
+-Added Save Answers functionality along with saving a question request.
+
+7/23/2015 16:00
+
+//////////// 
+
+
+Kam Quiz Version 1.4.2
+
+-Added binding for correct answer.
+
+7/24/2015 13:27
+
+//////////// 
+
+Kam Quiz Version 1.4.3
+
+-Added Quiz Delete functionality.
+
+7/30/2015 10:17
+
+//////////// 
+
+Kam Quiz Version 1.5.0 - beata
+
+-This version is in complete . It was an attempt to replace SQL database with XML file .
+-This version is abandoned for now . Because I decided to go back to SQL database (version 1.4.3)
+
+8/7/2015 10:55
+
+//////////// 
+

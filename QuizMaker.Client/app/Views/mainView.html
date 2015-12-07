@@ -1,0 +1,81 @@
+﻿<div ng-controller="MainController as vm">
+
+    <div>
+        <div class="menuButtonsArea">
+            <div class="btn-toolbar">
+                <button class="btn btn-info btn-lg btn-newQuiz" ng-click="vm.startCreateQuiz()">New Quiz</button>
+                <button class="btn btn-info btn-lg btn-addQuestion" ng-click="vm.addQuestions()">Add Questions/Answers</button>
+                <button class="btn btn-info btn-lg btn-deleteQuestion" ng-click="vm.deleteQuiz()">Delete Quiz</button>
+            </div>
+        </div>
+
+        <div class="createQuizArea" ng-show="vm.showAddQuizArea">
+            <label class="quizNameLable">Quiz Name:</label>
+            <textarea class="quizNameTextArea" ng-model="vm.topic.Name"></textarea>
+            <button class="btn btn-info btn-lg btn-saveQuizName" ng-click="vm.createQuiz()">Save</button>
+        </div>
+        
+      
+        <div class="addQuestionsArea" ng-show="vm.addQuestionsArea" >
+            <div>
+                <label class="selectQuizLable">Select a Quiz:</label>
+                <select class="selectQuizDropDown" ng-model="vm.topic.Name" ng-options="item.Name as item.Name for item in vm.topics"></select>
+            </div>
+            
+            <div class="questionTextArea">
+                <label class="questionAnswerLables">Question:</label>
+                <textarea class="questionTextBox" ng-model="vm.question.Text">{{vm.question.Text}}</textarea>
+            </div>
+            
+
+            <div class="answerTextArea">
+                <label class="questionAnswerLables">Answer #1:</label>
+                <textarea class="answersTextBox" ng-model="vm.answer1.Text">{{vm.answer1.Text}}</textarea>
+
+            </div>
+
+            <div class="answerTextArea">
+                <label class="questionAnswerLables">Answer #2:</label>
+                <textarea class="answersTextBox" ng-model="vm.answer2.Text">{{vm.answer2.Text}}</textarea>
+
+            </div>
+
+            <div class="answerTextArea">
+                <label class="questionAnswerLables">Answer #3:</label>
+                <textarea class="answersTextBox" ng-model="vm.answer3.Text">{{vm.answer3.Text}}</textarea>
+
+            </div>
+
+            <div class="answerTextArea">
+                <label class="questionAnswerLables">Answer #4:</label>
+                <textarea class="answersTextBox" ng-model="vm.answer4.Text">{{vm.answer4.Text}}</textarea>
+
+            </div>
+
+            <div class="correctAnswerArea">
+                <label>The Correct Answer is answer number:</label>
+                <textarea class="correctAnswerTextbox" ng-model="vm.correctAnswer">{{vm.correctAnswer}}</textarea>
+            </div>
+
+            <div class="saveQuestionButtonArea">
+                <button class="btn btn-info btn-lg" ng-click="vm.saveQuestionButtonClicked()">Save</button>
+            </div>
+            
+          
+        </div>
+
+        <div class="deleteQuizArea" ng-show="vm.showDeleteQuizArea">
+            <div>
+                <label class="selectQuizLable">Select a Quiz:</label>
+                <select class="selectQuizDropDown" ng-model="vm.topic.Name" ng-options="item.Name as item.Name for item in vm.topics"></select>
+                <button class="btn btn-info btn-lg btn-deleteQuizName" ng-click="vm.deleteSelectedQuiz()">Remove</button>
+            </div>
+        </div>
+     
+
+        <label class="quizCreatedLable" ng-model="vm.createQuizMessage" >{{vm.createQuizMessage}}</label>
+       
+    </div>
+
+
+</div>

@@ -1,0 +1,73 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KamQuiz.WebAPI", "KamQuiz.WebAPI\KamQuiz.WebAPI.csproj", "{DCAA0A78-A3D3-41D0-B417-2BC970C65FCD}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "KamQuiz.Client(3)", "http://localhost:65266", "{97DB9F8F-9F38-45DA-84D2-62F0B883AA6E}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_65266"
+		Debug.AspNetCompiler.PhysicalPath = "KamQuiz.Client\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_65266\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_65266"
+		Release.AspNetCompiler.PhysicalPath = "KamQuiz.Client\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_65266\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "KamQuiz.Client\"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "QuizMaker.Client", "http://localhost:54714", "{75F4FD06-E215-4D37-AA17-F9B47379C37B}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_54714"
+		Debug.AspNetCompiler.PhysicalPath = "QuizMaker.Client\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_54714\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_54714"
+		Release.AspNetCompiler.PhysicalPath = "QuizMaker.Client\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_54714\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "QuizMaker.Client\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCAA0A78-A3D3-41D0-B417-2BC970C65FCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCAA0A78-A3D3-41D0-B417-2BC970C65FCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCAA0A78-A3D3-41D0-B417-2BC970C65FCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCAA0A78-A3D3-41D0-B417-2BC970C65FCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97DB9F8F-9F38-45DA-84D2-62F0B883AA6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97DB9F8F-9F38-45DA-84D2-62F0B883AA6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97DB9F8F-9F38-45DA-84D2-62F0B883AA6E}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{97DB9F8F-9F38-45DA-84D2-62F0B883AA6E}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{75F4FD06-E215-4D37-AA17-F9B47379C37B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75F4FD06-E215-4D37-AA17-F9B47379C37B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75F4FD06-E215-4D37-AA17-F9B47379C37B}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{75F4FD06-E215-4D37-AA17-F9B47379C37B}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

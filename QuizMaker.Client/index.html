@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+    <!--Site CSS Files-->
+    <link href="Content/quizMaker.css" rel="stylesheet" type="text/css" />
+
+
+
+    <title>QUIZ MAKER</title>
+</head>
+<body class="quizMakerBody" ng-app="quizMakerManagment">
+
+    <!--Main Div-->
+    <div class="mainDiv">
+
+        <div ng-include="'app/Views/pageHeadView.html'"></div>
+
+        <div ng-include="'app/Views/mainView.html'"></div>
+
+    </div>
+
+
+
+    <!--Library Scripts-->
+    <script src="Scripts/angular.js"></script>
+    <script src="Scripts/angular-resource.js"></script>
+    <link href="Content/bootstrap.css" rel="stylesheet" />
+
+
+    <!--Application Scripts-->
+    <script src="app/app.js"></script>
+
+    <!--Services-->
+    <script src="app/Core/coreServices.js"></script>
+    <script src="app/Core/topicResource.js"></script>
+    <script src="app/Core/questionResource.js"></script>
+    <script src="app/Core/answerResource.js"></script>
+
+    <!--Topics Controller-->
+    <script src="app/Controllers/mainController.js"></script>
+
+
+
+</body>
+</html>

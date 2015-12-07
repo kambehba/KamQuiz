@@ -1,0 +1,56 @@
+﻿<div ng-controller="MainController as vm">
+
+    <div>
+        <div class="selected-topic"> <label>{{vm.selectedTopic}}</label> </div>
+       
+        <div class="quizNames">
+            <table class="table-topics">
+                
+                <tbody>
+                    <tr ng-repeat="topic in vm.topics">
+
+                        <td> <button class="btn btn-info btn-lg btn-topic" ng-click="vm.startTheQuiz(topic.Name,topic.Id)">{{topic.Text}} </button> </td>
+
+                    </tr>
+                </tbody>
+
+            </table>
+        </div>
+
+        <div class="selectTopicMessage" ng-show="vm.selectQuiz">
+           {{vm.quizTopingIsLoadingText}}
+        </div>
+ 
+        <div class="questionAnswerAera" ng-show="vm.showQuestionAnswerSection">
+
+            <!--Question Section-->
+            <div class="active-questionBox">
+                <h3 class="active-question">{{vm.activeQuestion.Text}}</h3>
+            </div>
+
+            <!--Answer Section-->
+            <div class="active-answer">
+                <button class="btn btn-danger btn-lg btn-answer1" ng-click="vm.answerButtonClicked(vm.activeAnswer1.IsCorrect)">{{vm.activeAnswer1.Text}}</button>
+                <button class="btn btn-danger btn-lg btn-answer2" ng-click="vm.answerButtonClicked(vm.activeAnswer2.IsCorrect)">{{vm.activeAnswer2.Text}}</button>
+                <button class="btn btn-danger btn-lg btn-answer3" ng-click="vm.answerButtonClicked(vm.activeAnswer3.IsCorrect)">{{vm.activeAnswer3.Text}}</button>
+                <button class="btn btn-danger btn-lg btn-answer4" ng-click="vm.answerButtonClicked(vm.activeAnswer4.IsCorrect)">{{vm.activeAnswer4.Text}}</button>
+            </div>
+
+            <!--Next Question Section-->
+            <div class="next-question-area">
+                <button class="btn btn-info btn-lg btn-topic" ng-click="vm.loadNextQuestion()">{{vm.nextButtonText}}</button>
+
+            </div>
+
+        </div>
+
+        <div class="testResultBox" ng-show="vm.showTestResult">
+            Your Test Score is {{vm.testResult}} out of 100.
+        </div>
+
+      
+       
+    </div>
+
+
+</div>

@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<KamQuizData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Questions />
+  <Answers />
+  <Quizes>
+    <Quiz>
+      <Id>2</Id>
+      <Text>kam1</Text>
+    </Quiz>
+    <Quiz>
+      <Id>3</Id>
+      <Text>Kam2</Text>
+    </Quiz>
+    <Quiz>
+      <Id>4</Id>
+      <Text>Kam3</Text>
+    </Quiz>
+  </Quizes>
+  <ApplicationIds>
+    <ApplicationId>
+      <quizId>4</quizId>
+      <questionId>1</questionId>
+      <answerId>1</answerId>
+    </ApplicationId>
+  </ApplicationIds>
+</KamQuizData>
