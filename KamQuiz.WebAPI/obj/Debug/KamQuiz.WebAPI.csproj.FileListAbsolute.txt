@@ -322,6 +322,5 @@ C:\Users\KamParsens\Documents\GitHub\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.S
 C:\Users\KamParsens\Documents\GitHub\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\KamParsens\Documents\GitHub\KamQuiz\KamQuiz.WebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Users\KamParsens\Documents\GitHub\KamQuiz\KamQuiz.WebAPI\bin\System.Web.Http.Owin.xml
-C:\Users\KamParsens\Documents\GitHub\KamQuiz\KamQuiz.WebAPI\obj\Debug\KamQuiz.WebAPI.csprojResolveAssemblyReference.cache
 C:\Users\KamParsens\Documents\GitHub\KamQuiz\KamQuiz.WebAPI\obj\Debug\KamQuiz.WebAPI.dll
 C:\Users\KamParsens\Documents\GitHub\KamQuiz\KamQuiz.WebAPI\obj\Debug\KamQuiz.WebAPI.pdb
